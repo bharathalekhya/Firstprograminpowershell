@@ -1,1 +1,3 @@
 # Firstprograminpowershell
+
+print("Hi Powershell")
