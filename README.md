@@ -1,3 +1,3 @@
 # Firstprograminpowershell
 
-print("Hi Powershell")
+write-output("Hi Powershell")
